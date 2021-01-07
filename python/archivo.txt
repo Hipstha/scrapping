@@ -1,0 +1,4 @@
+Durazno,3,3
+Pera,1,1
+Sandia,10,5Manzana,10,10Manzana,10,10?
+Manzana,10,10
